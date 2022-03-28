@@ -1,0 +1,1 @@
+System.register(["./index-legacy.e5fd366a.js"],(function(t){"use strict";var e,r;return{setters:[function(t){e=t.aM,r=t.cc}],execute:function(){t({a:function(t){return e({url:r.login,method:"get",params:t})},b:function(t){return e({url:r.task,method:"get",params:t})},g:function(t){return e({url:r.req,method:"get",params:t},{isMock:!0})}})}}}));
